@@ -525,3 +525,6 @@ while True:
 
 
 #### sudo python3 gx1302_test.py --display sh1106 --height 128 --rotate 2 --interface i2c
+
+
+xxx
